@@ -1,6 +1,8 @@
 age = int(input("how old are you?"))
 # if age >= 16 and age <= 65:
-if 16<= age <= 65:
+# if 16 <= age <= 65:
+# Here i am changing the basic if statement into a if statement with a range
+if age in range(16, 66):
     print("have a good day at work")
 else:
     print("Enjoy your free time")
