@@ -1,6 +1,9 @@
-answer = 5
+import random
 
-print("Please guess number between 1 and 10:")
+highest = 10
+answer = random.randint(1, highest)
+
+print("Please guess number between 1 and {}:".format(highest))
 guess = int(input())
 if guess == answer:
     print("You got it first time")
