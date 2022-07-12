@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ProgramFlow.iml" filepath="$PROJECT_DIR$/ProgramFlow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sequences/Sequences.iml" filepath="$PROJECT_DIR$/Sequences/Sequences.iml" />
     </modules>
   </component>
 </project>
